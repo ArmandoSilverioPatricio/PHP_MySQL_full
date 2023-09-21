@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: red;
+    border-bottom: dotted black ;
+    width: 50%;
+    margin: auto;
+}
+
+table{
+    border: 2px solid black;
+    padding: 20px   50px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+td{
+    text-align: center;
+}

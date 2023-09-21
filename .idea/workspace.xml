@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce5f44f2-02bf-4c63-9c7f-8c537cc2300b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PHP_MySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Funciones/Funciones.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.-Funciones II/Funciones_II.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.-POO/poo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-POO_II/poo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-POO_II/vehiculo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.-Herencia/herencia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.-Herencia/vehiculo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.-Modificadores_de_acceso/modificadores.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.-Modificadores_de_acceso/vehiculo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.-Modificadores_de_acceso_II/modificadoresII.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.-Modificadores_de_acceso_II/vehiculo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.-Variables_y_Metodos_Static/Concesionario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.-Variables_y_Metodos_Static/Uso_concesionario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.-Variables_y_Metodos_Static_II/Concesionario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.-Variables_y_Metodos_Static_II/Uso_concesionario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.-ObteniendoDatosBBDD/obteniendoRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.-ObteniendoRegistrosBBDD_II/obteniendoRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-SearchPage_I" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-SearchPage_I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/.idea/39.-querysConFiltro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/connexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/obteniendoRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.-querysConFiltro/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_I/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_I/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/.idea/40.-UpdatePage_I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/actualizar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/formularioActualizar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/paginaActualizar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.-UpdatePage_II/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/.idea/40.-UpdatePage_I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/busquedaResultados.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/formularioBusqueda.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/paginaBusqueda.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41.-UpdatePage_III/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42.-InsertarRegistros_I/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42.-InsertarRegistros_I/insertarRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.-InsertarRegistros_II/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.-InsertarRegistros_II/formularioInsertarRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.-InsertarRegistros_II/insertarRegistro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.-InsertarRegistros_II/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.-EliminadoRegistros/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.-EliminadoRegistros/eliminarRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.-EliminadoRegistros/formularioEliminarRegistros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.-EliminadoRegistros/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.-Ambito_de_las_Variables/AmbitoDeLasVariables.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.-Variables_estaticas/exStaticVariable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.-Operadores_de_Comparacion/OperadoresComparacion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.-Operadores_de_Comparacion/exOperators.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.-strings/strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exxample2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flujoEjecucionFunciones.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VUcrpOZsGuuTbho8d6zf55fRzX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/xampp/htdocs/xampp/PHP_MySQL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xampp\PHP_MySQL\40.-UpdatePage_II" />
+      <recent name="C:\xampp\htdocs\xampp\PHP_MySQL\41.-UpdatePage_III" />
+      <recent name="C:\xampp\htdocs\xampp\PHP_MySQL\44.-EliminadoRegistros" />
+      <recent name="C:\xampp\htdocs\xampp\PHP_MySQL\43.-InsertarRegistros_II" />
+      <recent name="C:\xampp\htdocs\xampp\PHP_MySQL\42.-InsertarRegistros_I" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5f44f2-02bf-4c63-9c7f-8c537cc2300b" name="Changes" comment="" />
+      <created>1694894300644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694894300644</updated>
+      <workItem from="1694894301648" duration="3092000" />
+      <workItem from="1694897451594" duration="17312000" />
+      <workItem from="1695308223488" duration="1220000" />
+      <workItem from="1695337818544" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
