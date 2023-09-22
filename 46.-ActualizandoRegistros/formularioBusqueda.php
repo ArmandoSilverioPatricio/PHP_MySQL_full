@@ -10,9 +10,9 @@
 </head>
 <body>
 
-    <form action="paginaBusqueda.php" method="get">
+    <form action="paginaResultadosActualizar.php" method="get">
         <label >Buscar:
-            <input type="text" name="buscarManual">
+            <input type="text" name="buscar">
             <input type="submit" value="Vamos" name="enviando">
         </label>
     </form>

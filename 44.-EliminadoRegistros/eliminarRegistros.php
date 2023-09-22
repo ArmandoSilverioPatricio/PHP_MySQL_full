@@ -42,6 +42,8 @@ $resultQueryProd = mysqli_query($conProd, $queryProd);
             echo "No hay registros que eliminar con ese id";
         }else if(mysqli_affected_rows($conProd) == 1){
             echo "Se ha eliminado un registro";
+
+            echo "<table><tr><td>$estatusName</td></tr></table>";
         }else{
             echo "Se han eliminado: " . mysqli_affected_rows($conProd) . " registros";
         }

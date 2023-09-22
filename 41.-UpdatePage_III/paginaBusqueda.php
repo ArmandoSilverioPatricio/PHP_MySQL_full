@@ -38,7 +38,7 @@ while ($fila = mysqli_fetch_array($resultQueryProd, MYSQLI_ASSOC)) {
     //Usando  caracteres comodin
     // % cadena de caracteres
     // _ un unico caracter
-    echo "<table><tr><td>";
+    //echo "<table><tr><td>";
     /*echo "<form action='Actualizar.php' method='get' >";
 
     echo "<input type='text' name='unitName' value='" . $fila['c_unidad_nombre'] .  "'><br>";
@@ -59,7 +59,7 @@ while ($fila = mysqli_fetch_array($resultQueryProd, MYSQLI_ASSOC)) {
     echo $fila['c_unidad_placa'] . "</td><td></tr></table>";*/
 
     echo "<table><tr><td>";
-    echo $fila['n_estatus_id'] . "</td><td>";
+    //echo $fila['n_estatus_id'] . "</td><td>";
     echo $fila['c_estatus_nombre'] . "</td><td></tr></table>";
     echo "<br>";
 }

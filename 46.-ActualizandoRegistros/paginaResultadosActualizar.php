@@ -30,9 +30,12 @@ while ($fila = mysqli_fetch_array($resultQueryProd, MYSQLI_ASSOC)) {
     //Usando  caracteres comodin
     // % cadena de caracteres
     // _ un unico caracter
-    echo "<table><tr><td>" . $fila['n_estatus_id'] . " ";
+   // echo "<table><tr><td>" . $fila['n_estatus_id'] . " ";
     //echo  . "</td><td></tr></table>";
-    echo $fila['c_estatus_nombre'] . "</td><td></tr></table>";
+    echo "<form action='Actualizar.php' method='get'>";
+    echo "<table><tr><label>Estatus ID</label><td>" . $fila['n_estatus_id'] . " " .  " <input type='text' name='estatusName' value='". $fila['c_estatus_nombre'] .  "'>   </td></tr></table><br>";
+    echo "<input type='submit' name='actualizado' value='Actualizar !!!'>";
+    echo "</form>";
     echo "<br>";
 }
 
